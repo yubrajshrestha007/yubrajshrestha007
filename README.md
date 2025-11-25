@@ -67,7 +67,7 @@ Machine learning-powered IDS for detecting cyber attacks.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&border_radius=20" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yubrajshrestha007&theme=radical&hide_border=true&border_radius=20" height="165px"/>
 </p>
 
 <p align="center">
