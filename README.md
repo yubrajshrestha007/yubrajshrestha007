@@ -57,22 +57,6 @@ ML-powered network intrusion detection using Python & scikit-learn.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yubraj-shrestha&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yubraj-shrestha&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-### 🌐 Connect With Me  
-<p align="left">
-<a href="mailto:your-email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 ---
 
 ### ✨ Quote  
