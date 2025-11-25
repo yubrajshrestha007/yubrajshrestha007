@@ -78,9 +78,9 @@ Machine learning-powered IDS for detecting cyber attacks.
 
 ## 🌍 **Connect With Me**
 <p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="mailto:yoyoyubraj007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/yubraj-shrestha-a3052a303/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.instagram.com/yubi_shrestha/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
